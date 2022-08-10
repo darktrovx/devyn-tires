@@ -1,3 +1,5 @@
+# Remove vehicle tires with qb-target and repair them using a tire item.
+
 # Items
 
 ```
@@ -21,3 +23,10 @@ Under the Config.TargetBones add the following
         distance = 2.0,
 	}
 ```
+
+# Previews
+![image](https://user-images.githubusercontent.com/7463741/183925954-b3dff654-15f5-46bc-a3f4-b08bdd3d78aa.png)
+
+![image](https://user-images.githubusercontent.com/7463741/183926029-0ef79d93-9741-4497-86da-751dc6caac24.png)
+
+
